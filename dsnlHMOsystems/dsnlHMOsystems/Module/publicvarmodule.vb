@@ -1,0 +1,34 @@
+﻿Module publicvarmodule
+    Public scodevar As String
+    Public gsqlCODE As String
+    Public addnew As Boolean
+    Public audisql As String
+    Public audisql2 As String
+    Public audisql3 As String
+    Public Stringresult As String
+    Public Dateresult As Date
+    Public Numresult As Int32
+    Public gsql2 As String
+    Public OPTRR As String
+    Public OPT As String
+    Public optname As String
+    Public CODDY As String
+    Public DESCC As String
+    Public COP As String
+    Public UIDD2 As String
+    Public rptid As String
+    Public tabname As String
+    Public rptform As String
+    Public rptcode As String
+    Public rptrangecode As String
+    Public rptrangecode2 As String
+    Public rptnamecap As String
+    Public reportcodee As String
+    Public reportcodee2 As String
+    Public custvendswith As String
+    Public compcode As String
+    Public payrefcode As String
+    Public rptnum As Integer
+    Public sdaterpt As Date
+    Public edaterpt As Date
+End Module
